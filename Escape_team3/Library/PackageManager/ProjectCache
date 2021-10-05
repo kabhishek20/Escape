@@ -1,20 +1,20 @@
 m_ProjectFiles:
   m_ManifestFileStatus:
-    m_FilePath: D:/Escape/Escape_team3/Packages/manifest.json
+    m_FilePath: C:/Users/Dell/Desktop/Escape/Escape_team3/Packages/manifest.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637686375305204282
-    m_Hash: 1908600920
+      ticks: 637687016172909866
+    m_Hash: 3491163914
   m_LockFileStatus:
-    m_FilePath: D:/Escape/Escape_team3/Packages/packages-lock.json
+    m_FilePath: C:/Users/Dell/Desktop/Escape/Escape_team3/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637686375555740697
-    m_Hash: 3406666390
+      ticks: 637687016172919830
+    m_Hash: 3512694268
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:
@@ -25,7 +25,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 5.0.4
       source: 1
-      resolvedPath: D:\Escape\Escape_team3\Library\PackageCache\com.unity.2d.animation@5.0.4
+      resolvedPath: C:\Users\Dell\Desktop\Escape\Escape_team3\Library\PackageCache\com.unity.2d.animation@5.0.4
       assetPath: Packages/com.unity.2d.animation
       name: com.unity.2d.animation
       displayName: 2D Animation
@@ -77,8 +77,6 @@ m_PackageAssets:
         - 3.2.5
         - 3.2.6
         - 3.2.9
-        - 3.2.10
-        - 3.2.11
         - 4.0.0
         - 4.0.1
         - 4.1.0
@@ -97,24 +95,17 @@ m_PackageAssets:
         - 5.0.4
         - 5.0.5
         - 5.0.6
-        - 5.0.7
-        - 5.0.8
         - 6.0.0-pre.1
         - 6.0.0-pre.2
         - 6.0.1
         - 6.0.3
         - 6.0.4
-        - 6.0.5
         - 7.0.0-pre.2
-        - 7.0.0-pre.3
-        - 7.0.0
         compatible:
         - 5.0.4
         - 5.0.5
         - 5.0.6
-        - 5.0.7
-        - 5.0.8
-        verified: 5.0.8
+        verified: 5.0.6
       dependencies:
       - name: com.unity.2d.common
         version: 4.0.3
@@ -173,7 +164,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 4.0.1
       source: 1
-      resolvedPath: D:\Escape\Escape_team3\Library\PackageCache\com.unity.2d.pixel-perfect@4.0.1
+      resolvedPath: C:\Users\Dell\Desktop\Escape\Escape_team3\Library\PackageCache\com.unity.2d.pixel-perfect@4.0.1
       assetPath: Packages/com.unity.2d.pixel-perfect
       name: com.unity.2d.pixel-perfect
       displayName: 2D Pixel Perfect
@@ -212,7 +203,6 @@ m_PackageAssets:
         - 5.0.0-pre.1
         - 5.0.0-pre.2
         - 5.0.0
-        - 5.0.1
         compatible:
         - 4.0.1
         verified: 4.0.1
@@ -248,7 +238,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 4.0.2
       source: 1
-      resolvedPath: D:\Escape\Escape_team3\Library\PackageCache\com.unity.2d.psdimporter@4.0.2
+      resolvedPath: C:\Users\Dell\Desktop\Escape\Escape_team3\Library\PackageCache\com.unity.2d.psdimporter@4.0.2
       assetPath: Packages/com.unity.2d.psdimporter
       name: com.unity.2d.psdimporter
       displayName: 2D PSD Importer
@@ -297,7 +287,6 @@ m_PackageAssets:
         - 4.0.1
         - 4.0.2
         - 4.1.0
-        - 4.1.1
         - 5.0.0-pre.1
         - 5.0.0-pre.2
         - 5.0.1
@@ -305,12 +294,9 @@ m_PackageAssets:
         - 5.0.4
         - 6.0.0-pre.2
         - 6.0.0-pre.3
-        - 6.0.0-pre.4
-        - 6.0.0
         compatible:
         - 4.0.2
         - 4.1.0
-        - 4.1.1
         verified: 4.0.2
       dependencies:
       - name: com.unity.2d.common
@@ -420,7 +406,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 5.1.1
       source: 1
-      resolvedPath: D:\Escape\Escape_team3\Library\PackageCache\com.unity.2d.spriteshape@5.1.1
+      resolvedPath: C:\Users\Dell\Desktop\Escape\Escape_team3\Library\PackageCache\com.unity.2d.spriteshape@5.1.1
       assetPath: Packages/com.unity.2d.spriteshape
       name: com.unity.2d.spriteshape
       displayName: 2D SpriteShape
@@ -468,7 +454,6 @@ m_PackageAssets:
         - 3.0.14
         - 3.0.15
         - 3.0.16
-        - 3.0.17
         - 4.0.0
         - 4.0.1
         - 4.0.2
@@ -486,22 +471,17 @@ m_PackageAssets:
         - 5.1.1
         - 5.1.2
         - 5.1.3
-        - 5.1.4
-        - 5.1.5
         - 6.0.0-pre.1
         - 6.0.0-pre.2
         - 6.0.0
         - 6.0.1
         - 7.0.0-pre.2
         - 7.0.0-pre.3
-        - 7.0.0
         compatible:
         - 5.1.1
         - 5.1.2
         - 5.1.3
-        - 5.1.4
-        - 5.1.5
-        verified: 5.1.5
+        verified: 5.1.3
       dependencies:
       - name: com.unity.mathematics
         version: 1.1.0
@@ -614,7 +594,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.3.9
       source: 1
-      resolvedPath: D:\Escape\Escape_team3\Library\PackageCache\com.unity.collab-proxy@1.3.9
+      resolvedPath: C:\Users\Dell\Desktop\Escape\Escape_team3\Library\PackageCache\com.unity.collab-proxy@1.3.9
       assetPath: Packages/com.unity.collab-proxy
       name: com.unity.collab-proxy
       displayName: Unity Collaborate
@@ -652,12 +632,6 @@ m_PackageAssets:
         - 1.5.7
         - 1.6.0
         - 1.7.1
-        - 1.8.0
-        - 1.9.0
-        - 1.10.2
-        - 1.11.2
-        - 1.12.5
-        - 1.13.5
         - 2.0.0-preview.6
         - 2.0.0-preview.8
         - 2.0.0-preview.15
@@ -673,9 +647,6 @@ m_PackageAssets:
         - 1.4.9
         - 1.5.7
         - 1.6.0
-        - 1.8.0
-        - 1.10.2
-        - 1.12.5
         - 2.0.0-preview.6
         - 2.0.0-preview.8
         - 2.0.0-preview.15
@@ -725,7 +696,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 2.0.7
       source: 1
-      resolvedPath: D:\Escape\Escape_team3\Library\PackageCache\com.unity.ide.rider@2.0.7
+      resolvedPath: C:\Users\Dell\Desktop\Escape\Escape_team3\Library\PackageCache\com.unity.ide.rider@2.0.7
       assetPath: Packages/com.unity.ide.rider
       name: com.unity.ide.rider
       displayName: JetBrains Rider Editor
@@ -832,7 +803,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 2.0.7
       source: 1
-      resolvedPath: D:\Escape\Escape_team3\Library\PackageCache\com.unity.ide.visualstudio@2.0.7
+      resolvedPath: C:\Users\Dell\Desktop\Escape\Escape_team3\Library\PackageCache\com.unity.ide.visualstudio@2.0.7
       assetPath: Packages/com.unity.ide.visualstudio
       name: com.unity.ide.visualstudio
       displayName: Visual Studio Editor
@@ -919,7 +890,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.2.3
       source: 1
-      resolvedPath: D:\Escape\Escape_team3\Library\PackageCache\com.unity.ide.vscode@1.2.3
+      resolvedPath: C:\Users\Dell\Desktop\Escape\Escape_team3\Library\PackageCache\com.unity.ide.vscode@1.2.3
       assetPath: Packages/com.unity.ide.vscode
       name: com.unity.ide.vscode
       displayName: Visual Studio Code Editor
@@ -947,7 +918,6 @@ m_PackageAssets:
         - 1.2.1
         - 1.2.2
         - 1.2.3
-        - 1.2.4
         compatible:
         - 1.0.2
         - 1.0.3
@@ -960,8 +930,7 @@ m_PackageAssets:
         - 1.2.1
         - 1.2.2
         - 1.2.3
-        - 1.2.4
-        verified: 1.2.4
+        verified: 1.2.3
       dependencies: []
       resolvedDependencies: []
       keywords: []
@@ -990,7 +959,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.1.24
       source: 1
-      resolvedPath: D:\Escape\Escape_team3\Library\PackageCache\com.unity.test-framework@1.1.24
+      resolvedPath: C:\Users\Dell\Desktop\Escape\Escape_team3\Library\PackageCache\com.unity.test-framework@1.1.24
       assetPath: Packages/com.unity.test-framework
       name: com.unity.test-framework
       displayName: Test Framework
@@ -1035,13 +1004,11 @@ m_PackageAssets:
         - 1.1.24
         - 1.1.26
         - 1.1.27
-        - 1.1.29
         compatible:
         - 1.1.24
         - 1.1.26
         - 1.1.27
-        - 1.1.29
-        verified: 1.1.29
+        verified: 1.1.27
       dependencies:
       - name: com.unity.ext.nunit
         version: 1.0.6
@@ -1084,7 +1051,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 3.0.6
       source: 1
-      resolvedPath: D:\Escape\Escape_team3\Library\PackageCache\com.unity.textmeshpro@3.0.6
+      resolvedPath: C:\Users\Dell\Desktop\Escape\Escape_team3\Library\PackageCache\com.unity.textmeshpro@3.0.6
       assetPath: Packages/com.unity.textmeshpro
       name: com.unity.textmeshpro
       displayName: TextMeshPro
@@ -1157,7 +1124,6 @@ m_PackageAssets:
         - 1.5.4
         - 1.5.5
         - 1.5.6
-        - 1.6.0-preview.1
         - 2.0.0
         - 2.0.1-preview.1
         - 2.0.1
@@ -1179,7 +1145,6 @@ m_PackageAssets:
         - 2.1.4
         - 2.1.5
         - 2.1.6
-        - 2.2.0-preview.1
         - 3.0.0-preview.1
         - 3.0.0-preview.3
         - 3.0.0-preview.4
@@ -1197,10 +1162,8 @@ m_PackageAssets:
         - 3.0.4
         - 3.0.5
         - 3.0.6
-        - 3.2.0-pre.1
         compatible:
         - 3.0.6
-        - 3.2.0-pre.1
         verified: 3.0.6
       dependencies:
       - name: com.unity.ugui
@@ -1243,7 +1206,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.4.8
       source: 1
-      resolvedPath: D:\Escape\Escape_team3\Library\PackageCache\com.unity.timeline@1.4.8
+      resolvedPath: C:\Users\Dell\Desktop\Escape\Escape_team3\Library\PackageCache\com.unity.timeline@1.4.8
       assetPath: Packages/com.unity.timeline
       name: com.unity.timeline
       displayName: Timeline
@@ -1323,7 +1286,6 @@ m_PackageAssets:
         - 1.6.0-pre.4
         - 1.6.0-pre.5
         - 1.6.1
-        - 1.6.2
         compatible:
         - 1.4.8
         - 1.5.0-pre.2
@@ -1344,7 +1306,6 @@ m_PackageAssets:
         - 1.6.0-pre.4
         - 1.6.0-pre.5
         - 1.6.1
-        - 1.6.2
         verified: 1.4.8
       dependencies:
       - name: com.unity.modules.director
@@ -3200,7 +3161,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.0.6
       source: 1
-      resolvedPath: D:\Escape\Escape_team3\Library\PackageCache\com.unity.ext.nunit@1.0.6
+      resolvedPath: C:\Users\Dell\Desktop\Escape\Escape_team3\Library\PackageCache\com.unity.ext.nunit@1.0.6
       assetPath: Packages/com.unity.ext.nunit
       name: com.unity.ext.nunit
       displayName: Custom NUnit
@@ -3261,7 +3222,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.1.0
       source: 1
-      resolvedPath: D:\Escape\Escape_team3\Library\PackageCache\com.unity.mathematics@1.1.0
+      resolvedPath: C:\Users\Dell\Desktop\Escape\Escape_team3\Library\PackageCache\com.unity.mathematics@1.1.0
       assetPath: Packages/com.unity.mathematics
       name: com.unity.mathematics
       displayName: Mathematics
@@ -3336,7 +3297,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 4.0.3
       source: 1
-      resolvedPath: D:\Escape\Escape_team3\Library\PackageCache\com.unity.2d.common@4.0.3
+      resolvedPath: C:\Users\Dell\Desktop\Escape\Escape_team3\Library\PackageCache\com.unity.2d.common@4.0.3
       assetPath: Packages/com.unity.2d.common
       name: com.unity.2d.common
       displayName: 2D Common
@@ -3372,9 +3333,6 @@ m_PackageAssets:
         - 5.0.0-pre.2
         - 5.0.0
         - 6.0.0-pre.2
-        - 6.0.0-pre.3
-        - 6.0.0-pre.4
-        - 6.0.0
         compatible:
         - 4.0.2
         - 4.0.3
@@ -3424,7 +3382,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 4.0.1
       source: 1
-      resolvedPath: D:\Escape\Escape_team3\Library\PackageCache\com.unity.2d.path@4.0.1
+      resolvedPath: C:\Users\Dell\Desktop\Escape\Escape_team3\Library\PackageCache\com.unity.2d.path@4.0.1
       assetPath: Packages/com.unity.2d.path
       name: com.unity.2d.path
       displayName: 2D Path
@@ -3449,21 +3407,17 @@ m_PackageAssets:
         - 2.0.5
         - 2.0.6
         - 2.1.0
-        - 2.1.1
         - 3.0.0
         - 3.0.1
         - 3.0.2
         - 4.0.0
         - 4.0.1
-        - 4.0.2
         - 5.0.0-pre.1
         - 5.0.0-pre.2
         - 5.0.0
-        - 5.0.1
         compatible:
         - 4.0.1
-        - 4.0.2
-        verified: 4.0.2
+        verified: 4.0.1
       dependencies: []
       resolvedDependencies: []
       keywords:
@@ -3491,5 +3445,5 @@ m_PackageAssets:
         path: 
   m_LocalPackages:
     m_LocalFileStatus: []
-m_ProjectPath: D:/Escape/Escape_team3/Packages
+m_ProjectPath: C:/Users/Dell/Desktop/Escape/Escape_team3/Packages
 m_EditorVersion: 2020.3.9f1 (108be757e447)
